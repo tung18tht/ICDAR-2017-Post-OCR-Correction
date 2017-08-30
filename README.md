@@ -1,2 +1,2 @@
 # ICDAR-2017-Post-OCR-Correction
-Python script to attend "ICDAR 2017 Post-OCR Correction" Competition
+Python script to attend "ICDAR 2017 Post-OCR Correction" Competition using frequent error patterns
